@@ -8,7 +8,7 @@
   <Privileged>false</Privileged>
   <Support>https://github.com/nzbfast/nzbfast/issues</Support>
   <Project>https://nzbfast.github.io/nzbfast/</Project>
-  <Overview>Speed-focused Usenet (NZB) downloader written in Rust. Single small binary, low memory, saturates fast lines with a handful of connections. Verifies articles while they download, so most jobs finish with no separate verify pass; repair and unpack run only when needed. Web dashboard on port 6789 with a SABnzbd-compatible API — works with Sonarr, Radarr and friends out of the box. Drop .nzb files in the watch folder or add them from the dashboard. Set an API key (NZBFAST_APIKEY, shown under Advanced) before connecting *arr apps.</Overview>
+  <Overview>Speed-focused Usenet (NZB) downloader written in Rust. Single small binary, low memory, saturates fast lines with a handful of connections. Verifies articles while they download, so most jobs finish with no separate verify pass; repair and unpack run only when needed. Web dashboard on port 6789 with a SABnzbd-compatible API that works with Sonarr, Radarr and friends out of the box. Drop .nzb files in the watch folder or add them from the dashboard. Set an API key (NZBFAST_APIKEY, shown under Advanced) before connecting *arr apps.</Overview>
   <Category>Downloaders:</Category>
   <WebUI>http://[IP]:[PORT:6789]/</WebUI>
   <TemplateURL>https://raw.githubusercontent.com/nzbfast/unraid-templates/main/nzbfast.xml</TemplateURL>

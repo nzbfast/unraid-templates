@@ -7,7 +7,7 @@ a speed-focused Usenet (NZB) downloader written in Rust.
 
 1. Unraid → **Docker** tab → **Add Container**.
 2. Set **Template repositories** (Docker tab, bottom of the page) to
-   `https://github.com/nzbfast/unraid-templates` — nzbfast then appears
+   `https://github.com/nzbfast/unraid-templates` and nzbfast then appears
    in the template dropdown, or:
 3. Fill in manually: image `nzbfast/nzbfast:latest`, port `6789`, and
    paths for `/config`, `/downloads` and `/watch`.
