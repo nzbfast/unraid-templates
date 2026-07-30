@@ -1,11 +1,13 @@
 <CommunityApplications>
   <Profile>
-Official Community Applications templates for [nzbfast](https://github.com/nzbfast/nzbfast),
-a speed-focused Usenet (NZB) downloader written in Rust. Single small binary
-with a web dashboard, native repair and extraction, and a SABnzbd-compatible
-API that works with Sonarr, Radarr and friends out of the box.
+Official Community Applications templates for nzbfast, a speed-focused Usenet
+(NZB) downloader written in Rust. Single small binary with a web dashboard,
+native repair and extraction, and a SABnzbd-compatible API that works with
+Sonarr, Radarr and friends out of the box.
 
-This repository currently contains one template: **nzbfast**.
+This repository currently contains one template: nzbfast.
+
+Project page: https://nzbfast.github.io/nzbfast/
 
 Support and questions: https://github.com/nzbfast/nzbfast/issues
   </Profile>
